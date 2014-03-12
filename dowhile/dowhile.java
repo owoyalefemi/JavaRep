@@ -10,6 +10,7 @@ public class CompoundInt {
 			counter++;
 				
 		}while(counter <= 10);
-		
+		System.out.println("Now, I do some math to find max num");
+		System.out.println(Math.max(9.3, 2.5));
 	}
 }
